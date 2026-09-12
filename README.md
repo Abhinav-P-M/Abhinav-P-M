@@ -16,18 +16,6 @@
 
 </div>
 
-🎮 PLAYER PROFILE
-
-╔══════════════════════════════════════════════════════════════╗
-║                    🧑‍💻 PLAYER: ABHINAV                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  CLASS        → AI / Computer Vision Researcher              ║
-║  SPECIALTY    → Deep Learning + Visual Intelligence          ║
-║  CURRENT XP   → ███████████████████░░░  85%                 ║
-║  LEVEL        → Researcher in Progress                       ║
-║  MAIN QUEST   → Build intelligent systems that matter       ║
-║  PASSIVE      → Curiosity • Persistence • Memory            ║
-╚══════════════════════════════════════════════════════════════╝
 
 🧠 My USP: I don't just train models — I focus on making AI systems remember, adapt, and understand visual information.
 
