@@ -12,43 +12,48 @@
 
 ---
 
-B.Tech, Computer Science & AI — Amrita Vishwa Vidyapeetham, Amritapuri. Most of what I build sits between research and something someone could actually use.
+B.Tech, Computer Science & AI — Amrita Vishwa Vidyapeetham, Amritapuri. Interested in models that generalize beyond their training distribution, and in vision systems applied to real-world, not just benchmark, problems.
 
-**Right now, I'm working on:**
-- Continual learning for concepts that *recur but change* over time — the A → B → C → A′ → B′ pattern real-world data actually follows, not the clean A → B → C → D that benchmarks assume
-- Domain adaptation for medical imaging, specifically retinopathy-of-prematurity screening (DANN, Deep CORAL, Grad-CAM++) — getting models to hold up when the data comes from a different clinic than the one they trained on
-- Computer vision applied to physical infrastructure — YOLO-based defect and crack detection from raw images
-
-### Projects
-
-| | |
-|---|---|
-| **Scholar Relay** | *Jul 2026* |
-| **Mechanical Failure Risk Predictor** | |
-| **AI-Based Building Defect Inspection** | YOLO / OpenCV |
-| **Suffix Tree Applications in Bioinformatics** | |
-| **AI Chess Bot** | *Nov–Dec 2025* |
-
-*(add repo links here once you've got them — happy to wire these up)*
+**Areas I keep coming back to:**
+- Continual learning — systems that adapt to concepts drifting over time instead of forgetting
+- Computer vision — detection, segmentation, visual understanding
+- Domain adaptation — robustness across data distributions
+- Applied AI in healthcare and infrastructure
 
 ### Stack
 
-`Python` `PyTorch` `TensorFlow` `OpenCV` `Java` `C++` `Git` `Docker` `Linux`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-### Also
-
-Competed in the Agentic AI Hackathon, Vidyut, and CODEX. Designed and ran a one-day AI/sustainability hackathon for high-school students — three difficulty tracks, browser-only tooling, mentorship program built in from the start.
+<p align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=default&border=false" alt="dev quote" />
+</p>
 
 <details>
 <summary><b>GitHub stats</b></summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinavPMadhu&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPMadhu&layout=compact&theme=default&hide_border=true" width="30%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPMadhu&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPMadhu&layout=compact&theme=default&hide_border=true" width="30%" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPMadhu&theme=default&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPMadhu&theme=default&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavPMadhu&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
 </details>
 
