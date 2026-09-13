@@ -1,5 +1,8 @@
 <h1 align="center">Abhinav Madhu</h1>
-<p align="center"><i>AI / Computer Vision — building systems that adapt, not just perform.</i></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=6C63FF&center=true&vCenter=true&width=560&lines=AI+%2F+Computer+Vision+Research;Building+systems+that+adapt%2C+not+just+perform." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/focus-continual%20learning-1a1a2e?style=flat-square" />
@@ -43,7 +46,15 @@ Competed in the Agentic AI Hackathon, Vidyut, and CODEX. Designed and ran a one-
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPMadhu&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPMadhu&layout=compact&theme=default&hide_border=true" width="30%" />
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPMadhu&theme=default&hide_border=true" />
+
 </details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
+</p>
 
 ---
 
