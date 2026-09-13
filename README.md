@@ -1,86 +1,50 @@
-<div align="center">
+<h1 align="center">Abhinav Madhu</h1>
+<p align="center"><i>AI / Computer Vision — building systems that adapt, not just perform.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ABHINAV%20MADHU&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Research&descAlignY=57&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-continual%20learning-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-computer%20vision-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-domain%20adaptation-1a1a2e?style=flat-square" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems;Computer+Vision+%7C+Deep+Learning+%7C+Research;Learning.+Building.+Repeat." alt="Typing SVG" />
+---
 
-</div>
+B.Tech, Computer Science & AI — Amrita Vishwa Vidyapeetham, Amritapuri. Most of what I build sits between research and something someone could actually use.
 
-### 🎮 Player Card
+**Right now, I'm working on:**
+- Continual learning for concepts that *recur but change* over time — the A → B → C → A′ → B′ pattern real-world data actually follows, not the clean A → B → C → D that benchmarks assume
+- Domain adaptation for medical imaging, specifically retinopathy-of-prematurity screening (DANN, Deep CORAL, Grad-CAM++) — getting models to hold up when the data comes from a different clinic than the one they trained on
+- Computer vision applied to physical infrastructure — YOLO-based defect and crack detection from raw images
 
-```
-CLASS      → AI / Computer Vision Researcher
-SPECIALTY  → Deep Learning + Visual Intelligence
-MAIN QUEST → Build intelligent systems that matter
-```
+### Projects
 
-B.Tech student in Computer Science & AI at Amrita Vishwa Vidyapeetham, Amritapuri. I train models, but the part I actually care about is making them **remember, adapt, and generalize** — not just score well on a benchmark.
-
-### 🧩 Current Quest
-
-- 🔭 **Continual learning** — recurring concepts that evolve over time, without catastrophic forgetting
-- 👁️ **Computer vision** — detection, segmentation, and visual understanding
-- 🧠 **Domain adaptation** — models that hold up outside their training distribution
-- 🩺 **AI for healthcare** — trustworthy CV for medical screening
-
-### ⚔️ Skill Tree
-
-<div align="center">
-
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-
-**Development**
-<img src="https://skillicons.dev/icons?i=java,cpp,git,github,linux,vscode&theme=dark" />
-
-**Systems**
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" />
-
-</div>
-
-### 🧪 Research Lab
-
-| Project | What it's for |
+| | |
 |---|---|
-| **AI-Powered Retinopathy of Prematurity Screening** | Domain-adaptive deep learning (DANN, Deep CORAL, Grad-CAM++) for retinal images across different clinical domains |
-| **Continual Learning: Concepts That Evolve** | Can a system learn recurring concepts that drift over time (A → B → C → A′ → B′ → C′) without forgetting? |
-| **AI-Based Building Defect / Crack Detection** | YOLO-based detection pipeline turning raw structural images into actionable defect reports |
+| **Scholar Relay** | *Jul 2026* |
+| **Mechanical Failure Risk Predictor** | |
+| **AI-Based Building Defect Inspection** | YOLO / OpenCV |
+| **Suffix Tree Applications in Bioinformatics** | |
+| **AI Chess Bot** | *Nov–Dec 2025* |
 
-### 📌 Featured Projects
+*(add repo links here once you've got them — happy to wire these up)*
 
-- **Scholar Relay** — *(Jul 2026)*
-- **Mechanical Failure Risk Predictor**
-- **Suffix Tree Applications in Bioinformatics**
-- **AI Chess Bot** — *(Nov–Dec 2025)*
+### Stack
 
-> Repo links: drop each project's URL in here once you've got them handy — happy to wire up direct links + one-line descriptions.
+`Python` `PyTorch` `TensorFlow` `OpenCV` `Java` `C++` `Git` `Docker` `Linux`
 
-### 🏆 Hackathons
+### Also
 
-Competed in the Agentic AI Hackathon, Vidyut, and CODEX. Also organized and designed a one-day AI/sustainability hackathon for high-school students — three difficulty tracks, browser-only tooling (Teachable Machine, Colab, Glitch), mentorship program.
+Competed in the Agentic AI Hackathon, Vidyut, and CODEX. Designed and ran a one-day AI/sustainability hackathon for high-school students — three difficulty tracks, browser-only tooling, mentorship program built in from the start.
 
-### 📊 Stats
+<details>
+<summary><b>GitHub stats</b></summary>
+<br>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinavPMadhu&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPMadhu&layout=compact&theme=default&hide_border=true" width="30%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhinavPMadhu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPMadhu&layout=compact&theme=tokyonight&hide_border=true" />
+</details>
 
-</div>
+---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavPMadhu&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 🌐 Connect
-
-<!-- Add your real links: LinkedIn, email, portfolio -->
-Interested in AI, computer vision, or research collaboration — reach out.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>Open to conversations on AI, CV, or research collaboration — reach me at [email] · [LinkedIn]</sub></p>
