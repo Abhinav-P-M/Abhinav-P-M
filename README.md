@@ -1,5 +1,16 @@
-<h1 align="center">Abhinav Madhu</h1>
+<p align="center">
+  <img src="./assets/tech-sphere.svg" alt="{{name}} — orbital toolbelt" width="100%" />
+</p>
 
+### why this orbit
+
+{{orbit_explanation_paragraph}}
+
+### what's at the center this week
+
+> {{learning_focus}}
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=6C63FF&center=true&vCenter=true&width=560&lines=AI+%2F+Computer+Vision+Research;Building+systems+that+adapt%2C+not+just+perform." alt="Typing SVG" />
 </p>
